@@ -1,0 +1,10 @@
+{
+  "name": "aws-nodejs-lambda-api-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Fernando Gouveia",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
