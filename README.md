@@ -4,15 +4,15 @@
 
 CRUD API para AWS Lambda com DynamoDB (NodeJS) é uma aplicação que demonstra a utilização de AWS Lambda, API Gateway e DynamaDB para criação de APIs.
 
-- [Arquitetura](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#arquitetura)
-    - [Caso de uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#caso-de-uso)
-    - [Setup](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#setup)
-    - [Notas musicais](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#deployment)
-    - [Uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#uso)
+  - [Arquitetura](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#arquitetura)
+  - [Caso de uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#caso-de-uso)
+  - [Setup](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#setup)
+  - [Notas musicais](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#deployment)
+  - [Uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#uso)
 
-### Arquitetura
+## Arquitetura
 
-
+![](https://raw.githubusercontent.com/fgouveia708/aws-nodejs-lambda-api-dynamodb/master/serverless.png)
 
 ## Caso de uso
 
