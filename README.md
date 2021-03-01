@@ -7,7 +7,7 @@ CRUD API para AWS Lambda com DynamoDB (NodeJS) é uma aplicação que demonstra 
   - [Arquitetura](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#arquitetura)
   - [Caso de uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#caso-de-uso)
   - [Setup](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#setup)
-  - [Notas musicais](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#deployment)
+  - [Deployment](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#deployment)
   - [Uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#uso)
 
 ## Arquitetura
