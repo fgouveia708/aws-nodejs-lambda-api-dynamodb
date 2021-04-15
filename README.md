@@ -1,8 +1,8 @@
 
 
-# CRUD API com AWS Lambda e DynamoDB (NodeJS)
+# CRUD API com AWS Lambda e Amazon DynamoDB (NodeJS)
 
-CRUD API com AWS Lambda e DynamoDB (NodeJS) é uma aplicação que demonstra a utilização de SERVERLESS com Amazon API Gateway, AWS Lambda e DynamoDB para criação de APIs.
+CRUD API com AWS Lambda e Amazon DynamoDB é uma aplicação que demonstra a utilização de SERVERLESS com Serverless Framework, Amazon API Gateway, AWS Lambda e Amazon DynamoDB para criação de APIs.
 
   - [Arquitetura](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#arquitetura)
   - [Caso de uso](https://github.com/fgouveia708/aws-nodejs-lambda-api-dynamodb#caso-de-uso)
