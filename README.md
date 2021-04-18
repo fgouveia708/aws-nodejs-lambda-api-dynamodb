@@ -43,8 +43,9 @@ export AWS_ACCESS_KEY_ID="..."
 export AWS_SECRET_ACCESS_KEY="..."
 export AWS_SESSION_TOKEN="..."
 ```
+Veja como configurar no artigo: [Como configurar o Serverless Framework com AWS Lambda](https://fernandogouveia.medium.com/como-configurar-o-serverless-framework-com-aws-lambda-10c302846a67) 
 
-1. Publicar aplicação:
+2. Publicar aplicação:
 
 ```bash
 serverless deploy
